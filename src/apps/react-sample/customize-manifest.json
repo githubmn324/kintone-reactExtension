@@ -1,0 +1,12 @@
+{
+    "app": "4",
+    "scope": "ALL",
+    "desktop": {
+      "js": ["dist/react-sample.js"],
+      "css": []
+    },
+    "mobile": {
+      "js": []
+    }
+  }
+  
